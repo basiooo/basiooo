@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/basiooo/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=basiooo.basiooo&left_text=Profile%20Visit's"  />
 </div>
 
 ###
