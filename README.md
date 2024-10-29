@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bagas Julianto and I'm a full stack web developer, from nganjuk</h2>
+<h2 align="left">Hi 👋, I'm Bagas Julianto</h2>
 
 ###
 
